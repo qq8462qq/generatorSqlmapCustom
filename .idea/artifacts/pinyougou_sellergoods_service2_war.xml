@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="pinyougou-sellergoods-service2:war">
+    <output-path>D:/Users/ZHANGYAQI/pinyougou-parent2/pinyougou-sellergoods-service2/target</output-path>
+    <root id="archive" name="pinyougou-sellergoods-service2-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="pinyougou-sellergoods-service2:war exploded" />
+    </root>
+  </artifact>
+</component>

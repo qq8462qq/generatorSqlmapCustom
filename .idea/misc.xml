@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$USER_HOME$/pinyougou-parent" />
+    <file type="web" url="file://D:/Users/zhangyaqi-demo" />
+    <file type="web" url="file://D:/Users/ZHANGYAQI/FastDFS-Demo" />
+    <file type="web" url="file://D:/Users/ZHANGYAQI/pinyougou-parent/pinyougou-cart-service" />
+    <file type="web" url="file://D:/Users/ZHANGYAQI/pinyougou-parent/pinyougou-cart-web" />
+    <file type="web" url="file://D:/Users/ZHANGYAQI/pinyougou-parent/pinyougou-content-service" />
+    <file type="web" url="file://D:/Users/ZHANGYAQI/pinyougou-parent/pinyougou-manager-web" />
+    <file type="web" url="file://D:/Users/ZHANGYAQI/pinyougou-parent/pinyougou-page-service" />
+    <file type="web" url="file://D:/Users/ZHANGYAQI/pinyougou-parent/pinyougou-page-web" />
+    <file type="web" url="file://D:/Users/ZHANGYAQI/pinyougou-parent/pinyougou-portal-web" />
+    <file type="web" url="file://D:/Users/ZHANGYAQI/pinyougou-parent/pinyougou-search-service" />
+    <file type="web" url="file://D:/Users/ZHANGYAQI/pinyougou-parent/pinyougou-search-web" />
+    <file type="web" url="file://D:/Users/ZHANGYAQI/pinyougou-parent/pinyougou-sellergoods-service" />
+    <file type="web" url="file://D:/Users/ZHANGYAQI/pinyougou-parent/pinyougou-shop-web" />
+    <file type="web" url="file://D:/Users/ZHANGYAQI/pinyougou-parent/pinyougou-user-service" />
+    <file type="web" url="file://D:/Users/ZHANGYAQI/pinyougou-parent/pinyougou-user-web" />
+    <file type="web" url="file://D:/Users/ZHANGYAQI/pinyougou-parent/pinyougou.cart.service" />
+    <file type="web" url="file://D:/Users/ZHANGYAQI/pinyougou-parent2/pinyougou-maeager-web2" />
+    <file type="web" url="file://D:/Users/ZHANGYAQI/pinyougou-parent2/pinyougou-sellergoods-service2" />
+    <file type="web" url="file://D:/Users/ZHANGYAQI/pinyougou-parent2/pinyougou-shop-web2" />
+    <file type="web" url="file://D:/Users/ZHANGYAQI/pyg-parent/pyg-service" />
+    <file type="web" url="file://D:/Users/ZHANGYAQI/String-Demo" />
+    <file type="web" url="file://D:/Users/ZHANGYAQI/zhangyaqi-web" />
+    <type id="Spring" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="D:/Users/ZHANGYAQI/pinyougou-parent/pom.xml" />
+        <option value="D:/Users/ZHANGYAQI/Sreing-Redis-Demo/pom.xml" />
+        <option value="D:/Users/ZHANGYAQI/Spring-Data-Solr-Demo/pom.xml" />
+        <option value="D:/Users/ZHANGYAQI/freemarker-damo/pom.xml" />
+        <option value="D:/Users/ZHANGYAQI/Spring-Boot-Demo/pom.xml" />
+        <option value="D:/Users/Demo/itcast-sms/pom.xml" />
+      </list>
+    </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="D:/Users/ZHANGYAQI/pinyougou-parent/pinyougou.cart.interface/pom.xml" />
+        <option value="D:/Users/ZHANGYAQI/pinyougou-parent/pinyougou.cart.service/pom.xml" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/classes" />
+  </component>
+</project>

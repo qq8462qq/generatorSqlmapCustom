@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="zhangyaqi-web:war">
+    <output-path>D:/Users/ZHANGYAQI/zhangyaqi-web/target</output-path>
+    <root id="archive" name="zhangyaqi-web-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="zhangyaqi-web:war exploded" />
+    </root>
+  </artifact>
+</component>

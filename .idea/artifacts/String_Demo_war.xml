@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="String-Demo:war">
+    <output-path>D:/Users/ZHANGYAQI/String-Demo/target</output-path>
+    <root id="archive" name="string-Demo-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="String-Demo:war exploded" />
+    </root>
+  </artifact>
+</component>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://D:/Users/ZHANGYAQI/Spring-Boot-Demo/Spring-Boot-Demo.iml" filepath="D:/Users/ZHANGYAQI/Spring-Boot-Demo/Spring-Boot-Demo.iml" />
+      <module fileurl="file://D:/Users/ZHANGYAQI/Spring-Data-Solr-Demo/Spring-Data-Solr-Demo.iml" filepath="D:/Users/ZHANGYAQI/Spring-Data-Solr-Demo/Spring-Data-Solr-Demo.iml" />
+      <module fileurl="file://D:/Users/ZHANGYAQI/Sreing-Redis-Demo/Sreing-Redis-Demo.iml" filepath="D:/Users/ZHANGYAQI/Sreing-Redis-Demo/Sreing-Redis-Demo.iml" />
+      <module fileurl="file://D:/Users/ZHANGYAQI/freemarker-damo/freemarker-damo.iml" filepath="D:/Users/ZHANGYAQI/freemarker-damo/freemarker-damo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/generatorSqlmapCustom.iml" filepath="$PROJECT_DIR$/generatorSqlmapCustom.iml" />
+      <module fileurl="file://D:/Users/Demo/itcast-sms/itcast-sms.iml" filepath="D:/Users/Demo/itcast-sms/itcast-sms.iml" />
+      <module fileurl="file://D:/Users/ZHANGYAQI/pinyougou-parent/pinyougou-cart-interface/pinyougou-cart-interface.iml" filepath="D:/Users/ZHANGYAQI/pinyougou-parent/pinyougou-cart-interface/pinyougou-cart-interface.iml" />
+      <module fileurl="file://D:/Users/ZHANGYAQI/pinyougou-parent/pinyougou-cart-service/pinyougou-cart-service.iml" filepath="D:/Users/ZHANGYAQI/pinyougou-parent/pinyougou-cart-service/pinyougou-cart-service.iml" />
+      <module fileurl="file://D:/Users/ZHANGYAQI/pinyougou-parent/pinyougou-cart-web/pinyougou-cart-web.iml" filepath="D:/Users/ZHANGYAQI/pinyougou-parent/pinyougou-cart-web/pinyougou-cart-web.iml" />
+      <module fileurl="file://D:/Users/ZHANGYAQI/pinyougou-parent/pinyougou-common/pinyougou-common.iml" filepath="D:/Users/ZHANGYAQI/pinyougou-parent/pinyougou-common/pinyougou-common.iml" />
+      <module fileurl="file://D:/Users/ZHANGYAQI/pinyougou-parent/pinyougou-content-interface/pinyougou-content-interface.iml" filepath="D:/Users/ZHANGYAQI/pinyougou-parent/pinyougou-content-interface/pinyougou-content-interface.iml" />
+      <module fileurl="file://D:/Users/ZHANGYAQI/pinyougou-parent/pinyougou-content-service/pinyougou-content-service.iml" filepath="D:/Users/ZHANGYAQI/pinyougou-parent/pinyougou-content-service/pinyougou-content-service.iml" />
+      <module fileurl="file://D:/Users/ZHANGYAQI/pinyougou-parent/pinyougou-dao/pinyougou-dao.iml" filepath="D:/Users/ZHANGYAQI/pinyougou-parent/pinyougou-dao/pinyougou-dao.iml" />
+      <module fileurl="file://D:/Users/ZHANGYAQI/pinyougou-parent/pinyougou-manager-web/pinyougou-manager-web.iml" filepath="D:/Users/ZHANGYAQI/pinyougou-parent/pinyougou-manager-web/pinyougou-manager-web.iml" />
+      <module fileurl="file://D:/Users/ZHANGYAQI/pinyougou-parent/pinyougou-page-interface/pinyougou-page-interface.iml" filepath="D:/Users/ZHANGYAQI/pinyougou-parent/pinyougou-page-interface/pinyougou-page-interface.iml" />
+      <module fileurl="file://D:/Users/ZHANGYAQI/pinyougou-parent/pinyougou-page-service/pinyougou-page-service.iml" filepath="D:/Users/ZHANGYAQI/pinyougou-parent/pinyougou-page-service/pinyougou-page-service.iml" />
+      <module fileurl="file://D:/Users/ZHANGYAQI/pinyougou-parent/pinyougou-page-web/pinyougou-page-web.iml" filepath="D:/Users/ZHANGYAQI/pinyougou-parent/pinyougou-page-web/pinyougou-page-web.iml" />
+      <module fileurl="file://D:/Users/ZHANGYAQI/pinyougou-parent/pinyougou-parent.iml" filepath="D:/Users/ZHANGYAQI/pinyougou-parent/pinyougou-parent.iml" />
+      <module fileurl="file://D:/Users/ZHANGYAQI/pinyougou-parent/pinyougou-pojo/pinyougou-pojo.iml" filepath="D:/Users/ZHANGYAQI/pinyougou-parent/pinyougou-pojo/pinyougou-pojo.iml" />
+      <module fileurl="file://D:/Users/ZHANGYAQI/pinyougou-parent/pinyougou-portal-web/pinyougou-portal-web.iml" filepath="D:/Users/ZHANGYAQI/pinyougou-parent/pinyougou-portal-web/pinyougou-portal-web.iml" />
+      <module fileurl="file://D:/Users/ZHANGYAQI/pinyougou-parent/pinyougou-search-interface/pinyougou-search-interface.iml" filepath="D:/Users/ZHANGYAQI/pinyougou-parent/pinyougou-search-interface/pinyougou-search-interface.iml" />
+      <module fileurl="file://D:/Users/ZHANGYAQI/pinyougou-parent/pinyougou-search-service/pinyougou-search-service.iml" filepath="D:/Users/ZHANGYAQI/pinyougou-parent/pinyougou-search-service/pinyougou-search-service.iml" />
+      <module fileurl="file://D:/Users/ZHANGYAQI/pinyougou-parent/pinyougou-search-web/pinyougou-search-web.iml" filepath="D:/Users/ZHANGYAQI/pinyougou-parent/pinyougou-search-web/pinyougou-search-web.iml" />
+      <module fileurl="file://D:/Users/ZHANGYAQI/pinyougou-parent/pinyougou-sellergoods-interface/pinyougou-sellergoods-interface.iml" filepath="D:/Users/ZHANGYAQI/pinyougou-parent/pinyougou-sellergoods-interface/pinyougou-sellergoods-interface.iml" />
+      <module fileurl="file://D:/Users/ZHANGYAQI/pinyougou-parent/pinyougou-sellergoods-service/pinyougou-sellergoods-service.iml" filepath="D:/Users/ZHANGYAQI/pinyougou-parent/pinyougou-sellergoods-service/pinyougou-sellergoods-service.iml" />
+      <module fileurl="file://D:/Users/ZHANGYAQI/pinyougou-parent/pinyougou-shop-web/pinyougou-shop-web.iml" filepath="D:/Users/ZHANGYAQI/pinyougou-parent/pinyougou-shop-web/pinyougou-shop-web.iml" />
+      <module fileurl="file://D:/Users/ZHANGYAQI/pinyougou-parent/pinyougou-solr-util/pinyougou-solr-util.iml" filepath="D:/Users/ZHANGYAQI/pinyougou-parent/pinyougou-solr-util/pinyougou-solr-util.iml" />
+      <module fileurl="file://D:/Users/ZHANGYAQI/pinyougou-parent/pinyougou-user-interface/pinyougou-user-interface.iml" filepath="D:/Users/ZHANGYAQI/pinyougou-parent/pinyougou-user-interface/pinyougou-user-interface.iml" />
+      <module fileurl="file://D:/Users/ZHANGYAQI/pinyougou-parent/pinyougou-user-service/pinyougou-user-service.iml" filepath="D:/Users/ZHANGYAQI/pinyougou-parent/pinyougou-user-service/pinyougou-user-service.iml" />
+      <module fileurl="file://D:/Users/ZHANGYAQI/pinyougou-parent/pinyougou-user-web/pinyougou-user-web.iml" filepath="D:/Users/ZHANGYAQI/pinyougou-parent/pinyougou-user-web/pinyougou-user-web.iml" />
+    </modules>
+  </component>
+</project>
